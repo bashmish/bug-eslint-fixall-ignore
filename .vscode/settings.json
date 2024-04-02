@@ -1,0 +1,12 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": false,
+  "eslint.format.enable": true,
+  "eslint.experimental.useFlatConfig": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  }
+}

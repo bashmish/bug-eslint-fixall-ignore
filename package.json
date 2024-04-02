@@ -1,0 +1,14 @@
+{
+  "name": "bug-eslint-fixall-ignore",
+  "version": "1.0.0",
+  "description": "reproduce vscode-eslint bug - not respecting .eslintignore",
+  "scripts": {
+    "test": "eslint src"
+  },
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-jsdoc": "^48.2.2"
+  }
+}
